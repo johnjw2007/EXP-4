@@ -1,7 +1,7 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
-## Name: ARUN KUMAR B
-## Reg no: 212223230021
-## Date : 21-04-2025
+## Name: JOHN WILFRED THOMAS J W
+## Reg no: 212224040141
+## Date : 13-05-2025
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
